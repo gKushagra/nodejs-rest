@@ -1,5 +1,5 @@
 {
-  "name": "sso-google-auth-api",
+  "name": "nodejs-rest",
   "version": "0.0.0",
   "private": true,
   "scripts": {
